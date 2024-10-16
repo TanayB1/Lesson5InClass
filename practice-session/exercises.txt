@@ -1,0 +1,32 @@
+Create a page to show your favorite colors and their complements
+Exercise 1
+1. Create a new file: colors.html
+2. Use the Emmet Abbreviation to add the default structure tags
+3. Edit the title: Colors and Complements
+4. Add a link to the stylesheet
+
+Exercise 2
+1. In colors.html, in between the body tags, add an h1 tag with text Colors and Complements
+2. Go to https://colours.neilorangepeel.com/
+Pick 5 colors that you like
+3. After the h1 tag, add 5 paragraph tags,
+inside each one, type the name of a color you chose
+4. Give each p tag a unique identifier attribute
+
+Exercise 3
+1. In style.css select all the p tags
+Set left and right margins to auto
+Set padding
+Set width no greater than 800px
+2. Select each p tag by its identifier
+Set background color to the color name
+Set text color dark for light backgrounds and light for dark backgrounds
+
+Exercise 4
+Go to https://www.quackit.com/css/color/tools/css_color_scheme_generator.cfm
+Use the form to enter each of the colors you chose and 
+find its complement
+1. In colors.html, add text inside each p tag that names the 
+complementary color.
+2. In style.css, add a border to each p tag
+Make the border color the complementary color

@@ -1,0 +1,40 @@
+GET STARTED 
+1. Create a new file: index.html 
+2. Use the Emmet Abbreviation to add the default structure tags
+3. Edit the title: Animal Aristocracy
+4. Add a link to the stylesheet
+5. In between the body tags, add an h1 tag with text:
+Animal Aristocracy
+
+Exercise 1
+1. In style.css, select the body tag
+Set background-image to wallpaper-bg.jpg
+Set background-position to top center
+
+Exercise 2
+1. In index.html, add 3 of the images from the image folder
+Use alt attributes
+2. In style.css, select the image tags
+Set height to 380px
+Set border to ridge 10px #af8b2b
+
+Exercise 3 
+1. Add the following style rules to the img tags
+Set margin-left to 15px
+Set margin-right to 15px
+Set padding to 20px
+
+Exercise 4 
+1. Add another style rule to the img tags
+Set background-color to #2e1414
+2. Select the h1 tag
+Set background-color to #132c33
+Set margin to 40px auto 50px auto
+Set padding to 5px 50px 15px 50px
+
+Exercise 5
+In style.css, 
+In the existing styles for the img tag:
+Set box-shadow to 10px 15px 20px 5px black
+In the existing styles for the h1 tag:
+Set text-shadow to 10px 15px 20px black

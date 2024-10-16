@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Eagle+Lake&display=swap');
+html{
+    color-scheme: dark;
+}
+
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    font-size: 1.15rem;
+    line-height: 1.5;
+    background-color: #132c33;
+    color: #f9d676;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-family: 'Eagle Lake', cursive;
+    font-size: 4rem;
+}
+
+
+/* ============ Student code ============= */
