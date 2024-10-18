@@ -21,3 +21,26 @@ h1 {
 
 
 /* ============ Student code ============= */
+
+body{
+    background-image:url("images/wallpaper-bg.jpg");
+    background-position:top center;
+}
+
+img{
+    background-color:#2e1414;
+    height:380px;
+    width:auto;
+    border:ridge 10px #af8b2b;
+    margin-left:20px;
+    margin-right:20px;
+    padding:20px;
+    box-shadow:10px 15px 20px 5px black;
+}
+
+h1{
+    margin:40px auto 50px auto;
+    padding:5px 50px 15px 50px;
+    background-color:#132c33;
+    text-shadow:10px 15px 20px black;
+}
