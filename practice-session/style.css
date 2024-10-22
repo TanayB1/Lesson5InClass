@@ -16,3 +16,52 @@ h1 {
 
 
 /* ============ Student code ============ */
+
+p{
+    margin-left:auto;
+    margin-right:auto;
+    padding:50px;
+    width:800px;
+}
+
+#aqua{
+    background-color:aqua;
+    font-weight:bold;
+    border:solid 20px;
+    border-color:#ff0000;
+    font-size:150%;
+}
+
+#darkred{
+    background-color:darkred;
+    color:white;
+    font-weight:bold;
+    border:solid 20px;
+    border-color:#008b8b;
+    font-size:150%;
+}
+
+#deepskyblue{
+    background-color:#00BFFF;
+    font-weight:bold;
+    border:solid 20px;
+    border-color:#ff4000;
+    font-size:150%;
+}
+
+#slateblue{
+    background-color:slateblue;
+    font-weight:bold;
+    color:white;
+    border:solid 20px;
+    border-color:#bdcd5a;
+    font-size:150%;
+}
+
+#blanchedalmond{
+    background-color:blanchedalmond;
+    font-weight:bold;
+    border:solid 20px;
+    border-color:#cde1ff;
+    font-size:150%;
+}
